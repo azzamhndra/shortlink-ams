@@ -76,7 +76,7 @@ const Container = () => {
               fontWeight: 400,
             }}
           >
-            @awalmenujuselamanya.
+            @loveplot.id
           </h1>
 
           {/* Tagline */}
@@ -116,14 +116,14 @@ const Container = () => {
           {/* Social Icons (FIXED like your original style) */}
           <div className="flex gap-5 mb-2 text-white/85">
             <a
-              href="https://instagram.com/awalmenujuselamanya"
+              href="https://instagram.com/loveplot.id"
               className="text-lg hover:scale-110 transition-all duration-300"
             >
               <FaInstagram />
             </a>
 
             <a
-              href="https://tiktok.com/@awalmenujuselamanya"
+              href="https://tiktok.com/loveplot.id"
               className="text-lg hover:scale-110 transition-all duration-300"
             >
               <FaTiktok />
@@ -133,7 +133,7 @@ const Container = () => {
           {/* Footer */}
           <footer className="mt-auto pt-10 text-center">
             <p className="text-[10px] text-white/25">
-              © 2026 Awal Menuju Selamanya
+              © 2026 Love Plot
             </p>
           </footer>
         </div>
